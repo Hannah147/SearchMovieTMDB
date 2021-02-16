@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SearchMovieTMDB.iml" filepath="$PROJECT_DIR$/.idea/modules/SearchMovieTMDB.iml" group="SearchMovieTMDB" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="SearchMovieTMDB/app" />
     </modules>
   </component>
 </project>
